@@ -1,0 +1,7 @@
+To import the library copy the "dany.py" inside your project and the type "from dany import DanyApp *"
+and thats done! Have fun!
+
+
+A library made for "Il Piccolo Angolino Di Dany" ...
+
+- fmDXP known as Daniel

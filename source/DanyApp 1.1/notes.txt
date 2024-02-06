@@ -1,0 +1,12 @@
+To import the library copy the "dany.py" inside your project and the type "from dany import DanyApp *"
+and thats done! Have fun!
+
+TO INSTALL THE FUNCTIONS YOU NEED TO PLACE THE ENTIRE DIRECTORY IN THE C:\ DRIVE AND RENAME IT "DanyAppInst" OR ELSE IT WON'T WORK!!!
+OR YOU CAN INSTALL IT MANUALLY TRANSFERRING THE COLOR DIRECTORY IN A NEW FOLDER CALLED "DanyApp" THAT NEEDS TO BE IN THE C:\ DRIVE!!!
+
+New Features:
+	FUNCTION color: colors the terminal
+
+A library made for "Il Piccolo Angolino Di Dany" ...
+
+- fmDXP known as Daniel

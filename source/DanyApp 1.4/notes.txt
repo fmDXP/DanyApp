@@ -1,0 +1,16 @@
+To import the library copy the "dany.py" inside your project and the type "from dany import *"
+and thats done! Have fun!
+
+To use the config file you should use "DanyConf("init")" and it will start...
+
+To install DanyApp open the command promt in this folder and use "py installer.py" command to install it!
+
+New Features:
+	FUNCTION move : moves a file to another directory
+	FUNCTION is_file : (used mostly in If statement) check if the file exists
+	FUNCTION is_folder : (used mostly in If statement) check if the folder exists
+
+
+A library made for "Il Piccolo Angolino Di Dany" ...
+
+- fmDXP known as Daniel
